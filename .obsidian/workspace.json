@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "af120a9bf56af4cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7bf74f95b91fcd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d68a09a7d96df920",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stryker .NET.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0913f90fcd6bc5e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XUnit .NET.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "631784e28c730e70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stryker .NET.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "467c61bde2343ea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verdaccio (Local NPM Registry).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7692f4be90057371",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1f3ba0ed4a001b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows Terminal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03dd325864f2d251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verdaccio (Local NPM Registry).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83ef792a9c6c5165",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f0023cea411a45b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95c58527a09a0e28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4758e1c200dc3363",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5e6a7da0a85301e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e34332d278cac1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3d4a10c8064847d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f781cf6a23fbdcdc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Verdaccio (Local NPM Registry).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f62d7e3787065a77",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Verdaccio (Local NPM Registry).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53da7af5a673c192",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9a0abd20044128fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Verdaccio (Local NPM Registry).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "03dd325864f2d251",
+  "lastOpenFiles": [
+    "Windows Terminal.md",
+    "PowersHell.md",
+    "Docker.md",
+    "Angular CLI.md",
+    "Verdaccio (Local NPM Registry).md",
+    "Stryker .NET.md",
+    "dotnet CLI.md",
+    "XUnit .NET.md"
+  ]
+}
